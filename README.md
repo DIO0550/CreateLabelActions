@@ -1,0 +1,2 @@
+# CreateLabelActions
+タグプッシュ時に、Issuesのラベルを自動生成するActions
